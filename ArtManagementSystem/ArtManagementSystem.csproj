@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E30A52AE-693D-4F02-88DB-56A8B614DF37}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ArtManagementSystem</RootNamespace>
+    <AssemblyName>ArtManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_artist_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_artist_info.Designer.cs">
+      <DependentUpon>add_artist_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="artists.cs" />
+    <Compile Include="arts.cs" />
+    <Compile Include="browse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="browse.Designer.cs">
+      <DependentUpon>browse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DBconn.cs" />
+    <Compile Include="dispalysales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dispalysales.Designer.cs">
+      <DependentUpon>dispalysales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="displayarts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="displayarts.Designer.cs">
+      <DependentUpon>displayarts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="displaymanager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="displaymanager.Designer.cs">
+      <DependentUpon>displaymanager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="for_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="for_admin.Designer.cs">
+      <DependentUpon>for_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manager.cs" />
+    <Compile Include="newManagercs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newManagercs.Designer.cs">
+      <DependentUpon>newManagercs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sales.cs" />
+    <Compile Include="sales_record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sales_record.Designer.cs">
+      <DependentUpon>sales_record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update artists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update artists.Designer.cs">
+      <DependentUpon>update artists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update_art.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_art.Designer.cs">
+      <DependentUpon>update_art.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatingrecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatingrecords.Designer.cs">
+      <DependentUpon>updatingrecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view.Designer.cs">
+      <DependentUpon>view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewArtists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewArtists.Designer.cs">
+      <DependentUpon>viewArtists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_art.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_art.Designer.cs">
+      <DependentUpon>view_art.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_artist_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_artist_info.Designer.cs">
+      <DependentUpon>view_artist_info.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="add_artist_info.resx">
+      <DependentUpon>add_artist_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="browse.resx">
+      <DependentUpon>browse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dispalysales.resx">
+      <DependentUpon>dispalysales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="displayarts.resx">
+      <DependentUpon>displayarts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="displaymanager.resx">
+      <DependentUpon>displaymanager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="for_admin.resx">
+      <DependentUpon>for_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newManagercs.resx">
+      <DependentUpon>newManagercs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sales_record.resx">
+      <DependentUpon>sales_record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update artists.resx">
+      <DependentUpon>update artists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_art.resx">
+      <DependentUpon>update_art.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatingrecords.resx">
+      <DependentUpon>updatingrecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view.resx">
+      <DependentUpon>view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewArtists.resx">
+      <DependentUpon>viewArtists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_art.resx">
+      <DependentUpon>view_art.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_artist_info.resx">
+      <DependentUpon>view_artist_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\01d382d02b39f9670f7a380a9b04a3bc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="artist_image\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

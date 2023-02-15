@@ -1,0 +1,66 @@
+C:\Users\Mahi\source\repos\ArtManagementSystem\bin\Debug\ArtManagementSystem.exe.config
+C:\Users\Mahi\source\repos\ArtManagementSystem\bin\Debug\ArtManagementSystem.exe
+C:\Users\Mahi\source\repos\ArtManagementSystem\bin\Debug\ArtManagementSystem.pdb
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.csprojAssemblyReference.cache
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.login.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.Properties.Resources.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.csproj.GenerateResource.cache
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.exe
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.pdb
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.for_admin.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.Admin.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.view_art.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.update_art.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.add_artist_info.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.view_artist_info.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.sales_record.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.viewArtists.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.browse.resources
+C:\Users\Mahi\source\repos\ArtManagementSystem\obj\Debug\ArtManagementSystem.newManagercs.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\bin\Debug\ArtManagementSystem.exe.config
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\bin\Debug\ArtManagementSystem.exe
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\bin\Debug\ArtManagementSystem.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.add_artist_info.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.Admin.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.browse.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.for_admin.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.login.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.newManagercs.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.Properties.Resources.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.sales_record.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.update_art.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.viewArtists.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.view_art.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.view_artist_info.resources
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.exe
+C:\Users\Admin\Downloads\Telegram Desktop\ArtManagementSystem\ArtManagementSystem\obj\Debug\ArtManagementSystem.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\bin\Debug\ArtManagementSystem.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\bin\Debug\ArtManagementSystem.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\bin\Debug\ArtManagementSystem.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.add_artist_info.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.Admin.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.browse.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.for_admin.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.login.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.newManagercs.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.sales_record.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.update_art.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.viewArtists.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.view_art.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.view_artist_info.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.update_artists.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.updatingrecords.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.dispalysales.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.displayarts.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.displaymanager.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ArtManagementSystem\obj\Debug\ArtManagementSystem.view.resources
